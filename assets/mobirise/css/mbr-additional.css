@@ -2192,3 +2192,21 @@ section.lazy-placeholder:after {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-rDKUHX15AU {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rDKUHX15AU .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rDKUHX15AU .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rDKUHX15AU .mbr-text {
+  color: #767676;
+}
